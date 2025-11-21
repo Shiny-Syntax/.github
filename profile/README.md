@@ -1,6 +1,6 @@
 # 👩‍💻 Equipe Shiny Syntax
 
-A **Shiny Syntax** é a equipe responsável pelo desenvolvimento do projeto **AIDA API RESTful**, comprometida com **boas práticas, organização e inovação** em software.
+A **Shiny Syntax** é a equipe responsável pelo desenvolvimento do projeto **AIDA**, comprometida com **boas práticas, organização e inovação** em software.
 
 ---
 
